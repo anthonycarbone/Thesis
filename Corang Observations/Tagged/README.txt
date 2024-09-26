@@ -1,0 +1,1 @@
+Some annotated images used for reports.
